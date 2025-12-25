@@ -18,4 +18,5 @@ Milk_pricing_study2_replication.R - This is the R code file that is used to proc
 data folder:
 
 rawdata_study1.csv - raw experiment data for Study 1 
+
 rawdata_study2.xlsx - raw sales data for Study 2 
